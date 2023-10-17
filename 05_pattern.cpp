@@ -8,6 +8,6 @@ int main(){
         for(j=i;j>0;j--){
             cout<<j<<" ";
         }
-        cout<<"\n";
+        cout<<endl;
     }
 }
